@@ -16,4 +16,4 @@
 
 后端：Java语言的Spring Boot框架、MySQL数据库、Maven依赖管理等；
 
-前端：Vue、element-ui、axios等。
+前端：管理员后台使用Vue、element-ui、axios等，用户前台使用HTML、layUI、element-ui等。
